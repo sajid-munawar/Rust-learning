@@ -1,6 +1,6 @@
 fn main() {
-    println!("Hello, world! {}");
-    // square(2,3);
+    println!("Hello, world!");
+    square(2,3);
 
 }
 fn square(x:u32,y:u32){
